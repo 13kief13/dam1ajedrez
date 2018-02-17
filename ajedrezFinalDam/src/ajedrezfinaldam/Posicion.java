@@ -24,6 +24,11 @@ public class Posicion {
    }
     
     
+    public void posicion (int fila, int columna){
+        
+    }
+     
+    
     //getters y setters   
     public int getFila(){
         
